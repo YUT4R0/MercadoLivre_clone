@@ -30,12 +30,13 @@ export default createGlobalStyle`
     --color-search-placeholder: #AAAAAA;
     --color-border: #ddd;
 
-    --reputation-1: #FFE7E6;
-    --reputation-2: #FFF4E7;
-    --reputation-3: #FFFDE5;
-    --reputation-4: #F3FEE0;
-    --reputation-5: #00A650;
+    --reputation-1: #ffc3c1b5;
+    --reputation-2: #ffdcb1b5;
+    --reputation-3: #fff8afb5;
+    --reputation-4: #cdff76b5;
+    --reputation-5: #2eff93b5;
 
     --panel-shadow: 0 1px 3px 0 rgba(0,0,0,.3);
   }
+
 `;
