@@ -3,7 +3,7 @@ import { Container } from "./styles";
 
 const Header: React.FC = () => {
   return (
-    <Container>Interface reproduzida com a Rocketseat</Container>
+    <Container>Tráfico Recreativo</Container>
   )
 };
 

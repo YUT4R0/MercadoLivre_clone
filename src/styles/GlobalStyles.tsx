@@ -8,7 +8,9 @@ export default createGlobalStyle`
   }
   html {
     min-height: 100%;
+
     background: var(--color-primary);
+    overflow-x: hidden;
   }
   h1, h2, h3, h4, h5, h6 {
     font-weight: 600;
